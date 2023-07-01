@@ -8,4 +8,7 @@ The findings highlight significant relationships between these variables and hap
 This repository serves as a valuable resource for those interested in understanding the world happiness trends, exploring data analysis techniques, and gaining insights into the complex interplay between various factors and happiness scores.
 
 
+## Dataset
+The dataset was sourced from kaggle 
+
 Keywords: Data Analysis, World Happiness Dataset, Python, EDA, Kaggle, Pandas, NumPy, Seaborn, Matplotlib, Correlation, Visualization, Data Science
