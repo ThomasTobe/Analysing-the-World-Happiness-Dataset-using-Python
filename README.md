@@ -7,6 +7,14 @@ The findings highlight significant relationships between these variables and hap
 
 This repository serves as a valuable resource for those interested in understanding the world happiness trends, exploring data analysis techniques, and gaining insights into the complex interplay between various factors and happiness scores.
 
+The following operations was done:
+Data Cleaning
+Data Wrangling 
+Data Mining
+Feature Engineering 
+Exploratory Data Analysis (EDA)
+Data Visualization
+Data Storytelling 
 
 ## Dataset
 The dataset was sourced from kaggle 
